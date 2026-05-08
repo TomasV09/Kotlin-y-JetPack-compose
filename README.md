@@ -22,7 +22,7 @@ Este repositorio contiene una colección de aplicaciones Android desarrolladas c
 
 ## 📱 Aplicaciones Incluidas
 
-### 1. [Nombre de la App 1]
+### 1. [Compose 1]
 **Descripción breve:** Propósito principal de la aplicación.
 - **Características principales:** 
   - Característica 1
@@ -34,7 +34,7 @@ Este repositorio contiene una colección de aplicaciones Android desarrolladas c
   ![Coroutines](https://img.shields.io/badge/Coroutines-Async-green?style=flat)
 - **Ubicación:** `/app1`
 
-### 2. [Nombre de la App 2]
+### 2. [Compose 2]
 **Descripción breve:** Propósito principal de la aplicación.
 - **Características principales:** 
   - Característica 1
@@ -46,7 +46,7 @@ Este repositorio contiene una colección de aplicaciones Android desarrolladas c
   ![ViewModel](https://img.shields.io/badge/ViewModel-MVVM-orange?style=flat)
 - **Ubicación:** `/app2`
 
-### 3. [Nombre de la App 3]
+### 3. [Compose 3]
 **Descripción breve:** Propósito principal de la aplicación.
 - **Características principales:** 
   - Característica 1
@@ -206,15 +206,6 @@ cd Kotlin-y-JetPack-compose
 
 ### Problema: "ViewModel not working in Compose"
 **Solución:** Asegurar uso de `viewModel()` composable de Hilt
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-1. Fork el repositorio
-2. Crear una rama (`git checkout -b feature/AmazingFeature`)
-3. Commit cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abrir un Pull Request
 
 ## 📄 Licencia
 
